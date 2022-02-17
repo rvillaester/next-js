@@ -1,0 +1,1 @@
+export const DDB_URL = 'https://ndamt9wh03.execute-api.ap-southeast-1.amazonaws.com/dev';

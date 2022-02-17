@@ -1,0 +1,15 @@
+.item {
+margin: 1rem 0;
+width: 100%;
+}
+
+.title {
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.25rem;
+    color: #16239c;
+}
+  
+.content {
+padding: 1rem;
+}
